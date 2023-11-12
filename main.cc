@@ -5,6 +5,6 @@
 
 int main() {
   std::cout << "hello world" << std::endl;
-  chapter5::chapter_name();
+  chapter5::execute();
   return 0;
 }

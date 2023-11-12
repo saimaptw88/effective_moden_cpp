@@ -69,5 +69,7 @@ void execute() {
   _26::logAndAdd(1);
 
   _26::printNames();
+
+  _27::execute();
 }
 };  // namespace chapter5

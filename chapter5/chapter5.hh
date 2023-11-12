@@ -8,6 +8,7 @@
 
 #include "../conditions.hh"
 #include "../chapter5/chapter5_26.hh"
+#include "../chapter5/chapter5_27.hh"
 
 
 namespace chapter5 {

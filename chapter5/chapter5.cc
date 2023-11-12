@@ -64,5 +64,10 @@ void execute() {
 
   std::cout << w1.s() << " " << w2.s() << std::endl;
   std::cout << w1.moveCtorCalls() << std::endl;
+
+  _26::logAndAdd("test");
+  _26::logAndAdd(1);
+
+  _26::printNames();
 }
 };  // namespace chapter5

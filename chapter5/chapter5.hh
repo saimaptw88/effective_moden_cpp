@@ -7,6 +7,7 @@
 #include <utility>
 
 #include "../conditions.hh"
+#include "../chapter5/chapter5_26.hh"
 
 
 namespace chapter5 {

@@ -3,6 +3,7 @@
 #include "chapter6.hh"
 #include "chapter6_31.hh"
 #include "chapter6_32.hh"
+#include "chapter6_33.hh"
 
 
 namespace chapter6 {
@@ -11,5 +12,6 @@ void execute() {
 
   _31::execute();
   _32::execute();
+  _33::execute();
 }
 };

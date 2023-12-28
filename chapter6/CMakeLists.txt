@@ -5,4 +5,5 @@ chapter6.cc
 chapter6_31.cc
 chapter6_32.cc
 chapter6_33.cc
+chapter6_34.cc
 )

@@ -15,6 +15,7 @@ void execute() {
   std::cout << " *** SECTION 35 ***"  << std::endl;
 
   std::thread t(doAsyncWork);
+  t.join();
 
   auto fut = std::async(doAsyncWork);
   std::cout << fut.get() << std::endl;

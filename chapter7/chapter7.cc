@@ -3,6 +3,7 @@
 #include "section35.hh"
 #include "section36.hh"
 #include "section37.hh"
+#include "section38.hh"
 
 
 namespace chapter7 {
@@ -12,5 +13,6 @@ void execute() {
   section35::execute();
   section36::execute();
   section37::execute();
+  section38::execute();
 }
 };  // namespace chapter7

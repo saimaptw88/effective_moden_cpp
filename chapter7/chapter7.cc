@@ -4,6 +4,7 @@
 #include "section36.hh"
 #include "section37.hh"
 #include "section38.hh"
+#include "section39.hh"
 
 
 namespace chapter7 {
@@ -14,5 +15,6 @@ void execute() {
   section36::execute();
   section37::execute();
   section38::execute();
+  section39::execute();
 }
 };  // namespace chapter7

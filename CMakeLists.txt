@@ -6,6 +6,7 @@ add_subdirectory(chapter3)
 add_subdirectory(chapter5)
 add_subdirectory(chapter6)
 add_subdirectory(chapter7)
+add_subdirectory(chapter8)
 
 add_executable(main main.cc)
 target_link_libraries(
@@ -15,4 +16,5 @@ chapter3
 chapter5
 chapter6
 chapter7
+chapter8
 )
